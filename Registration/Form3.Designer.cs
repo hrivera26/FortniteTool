@@ -91,6 +91,8 @@
             this.button2.Font = new System.Drawing.Font("M+ 2p medium", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.button2.ForeColor = System.Drawing.SystemColors.GrayText;
             this.button2.Location = new System.Drawing.Point(15, 129);
+            this.button2.MaximumSize = new System.Drawing.Size(118, 35);
+            this.button2.MinimumSize = new System.Drawing.Size(118, 35);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(118, 35);
             this.button2.TabIndex = 7;
@@ -123,6 +125,8 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.Control;
+            this.MaximumSize = new System.Drawing.Size(392, 215);
+            this.MinimumSize = new System.Drawing.Size(392, 215);
             this.Name = "Form3";
             this.Text = "登録";
             this.ResumeLayout(false);
