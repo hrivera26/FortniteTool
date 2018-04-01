@@ -1,0 +1,14 @@
+C:\Users\kk\source\repos\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\kk\source\repos\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\kk\source\repos\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.Form1.resources
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.Form2.resources
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.Form3.resources
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\kk\source\repos\Registration\Registration\bin\Debug\MySql.Data.dll
+C:\Users\kk\source\repos\Registration\Registration\obj\Debug\Registration.csproj.CopyComplete
